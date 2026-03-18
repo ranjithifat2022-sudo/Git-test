@@ -1,1 +1,1 @@
-this for testing conflict 2.
+for testing conflict 2.
